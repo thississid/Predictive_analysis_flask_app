@@ -29,11 +29,11 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/predictive-maintenance-flask-app.git
+    git clone https://github.com/thississid/Predictive_analysis_flask_app.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd predictive-maintenance-flask-app
+    cd Predictive_analysis_flask_app
     ```
 3. Create and activate a virtual environment:
     ```sh
